@@ -1,8 +1,14 @@
+# :wave: Hello, welcome!
+
 # 💫About Me :
+
+## Ítalo Rissardi
+
 { Web Developer in progress }
 
 :beginner: I'm a brazilian musician and student at Oracle Next Education program.
 :dart: At moment, I'm working hard to become a profissional developer.
+:seedling: Learning now: HTML, CSS, Javascript, Typescript, React.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C3%ADtalo-rissardi-83340322a/) 
