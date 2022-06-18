@@ -6,9 +6,9 @@
 
 { Web Developer in progress }
 
-:beginner: I'm a brazilian musician and student at Oracle Next Education program.
+:beginner: I'm a student at Oracle Next Education program and a brazilian musician and.
 
-:dart: At moment, I'm working on to become a profissional developer.
+:dart: At moment, I'm working on to become a qualified profissional developer.
 
 :seedling: Learning now: HTML, CSS, Javascript, Typescript, React.
 
