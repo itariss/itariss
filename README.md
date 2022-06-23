@@ -6,7 +6,7 @@
 
 { Full Stack Developer in progress }
 
-:beginner: I'm a student at Oracle Next Education program and a brazilian musician and.
+:beginner: I'm a student at Oracle Next Education program and a brazilian musician.
 
 :dart: At moment, I'm working on to become a qualified profissional developer.
 
