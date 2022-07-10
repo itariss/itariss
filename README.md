@@ -1,8 +1,6 @@
-# :wave: Hello, welcome!
+# :wave: Hello, I'm Ítalo Rissardi!
 
 # 💫About Me :
-
-## Ítalo Rissardi
 
 { Full Stack Developer in progress }
 
