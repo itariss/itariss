@@ -8,7 +8,7 @@
 
 :dart: At moment, I'm working on to become a qualified profissional developer.
 
-:seedling: Learning now: Java.
+:seedling: Learning now: Java, Bootstrap, React.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-rissardi/) 
