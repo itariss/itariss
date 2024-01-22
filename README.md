@@ -1,4 +1,4 @@
-## :wave: Hello, I'm Ítalo Rissardi!<br><br> 💫 About Me :<br><br>{ Full Stack Developer in progress }<br><br>:beginner: Trained as Junior Developer at Oracle Next Education program.<br><br>:dart: At moment, I'm working on to become a qualified profissional developer.<br><br>:seedling: Learning now: React and Ruby!
+## :wave: Hello, I'm Ítalo Rissardi!<br><br> 💫 About Me :<br><br>{ Full Stack Developer in progress }<br><br>:beginner: Trained as Junior Developer at Oracle Next Education program.<br><br>:dart: At moment, I'm working on to become a qualified profissional developer.<br><br>:seedling: Learning now: React!
 
 
 ## 🌐 Socials:
